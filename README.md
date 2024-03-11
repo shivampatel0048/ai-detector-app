@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live Deployed link -> [live demo.](https://ai-detector-by-shivam.netlify.app/).
+Live Deployed link -> [live demo](https://ai-detector-by-shivam.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
