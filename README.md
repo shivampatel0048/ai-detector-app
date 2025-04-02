@@ -38,5 +38,4 @@ The app will be live at `http://localhost:5173/` (default Vite port).
 
 ---
 
-### 📌 Author  
 Developed by **Shivam Patel**. If you like this project, feel free to ⭐ the repo!  
